@@ -48,3 +48,13 @@ Filtering logic
 Many-to-many relationships
 Normalization
 Ranking logic
+
+Sample Outputs:
+### Genre-Based Recommendation
+![Genre Based](screenshots/genre_based_output.png)
+
+### Similar-User Recommendation
+![Similar User](screenshots/similar_user_output.png)
+
+### Popularity-Based Recommendation
+![Popular Books](screenshots/popular_books_output.png)
